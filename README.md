@@ -1,12 +1,21 @@
-Hi, My name is Ryan Chen and I go to the High School of Telecommunication of Arts and Technology. My email is ryanc8401@hstat.org feel free to contact me.  
+# **Ryan Chen**
+## _Student_
+**High School of Telecommunication of Arts and Technology**
 
-My schedule is   
+ryanc8401@hstat.org
 
-1)Spanish   
-2)English   
-3)SEP   
-4)Apush   
-5)Ap Calc   
-6)Lunch   
-7)Weight-Training   
-8)Physics   
+
+
+> Ryan Chen currently stuyding in the High School of Telecommunication of Arts and Technology. I enjoy eating, sleeping, and playing games.
+
+Schedule
+
+* English   
+* SEP   
+* Apush   
+* Ap Calc   
+* Lunch   
+* Weight-Training   
+* Physics  
+
+[Portfolio](https://ryanc8401.github.io/)
