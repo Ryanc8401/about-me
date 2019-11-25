@@ -1,12 +1,12 @@
 # **Ryan Chen**
 ## _Student_
-**High School of Telecommunication of Arts and Technology**
+### **High School of Telecommunication of Arts and Technology**
 
 ryanc8401@hstat.org
 
 
 
-> Ryan Chen currently stuyding in the High School of Telecommunication of Arts and Technology. I enjoy eating, sleeping, and playing games.
+> Ryan Chen is currently stuyding in the High School of Telecommunication of Arts and Technology. I enjoy eating, sleeping, and playing games.
 
 Schedule
 
